@@ -1,0 +1,12 @@
+* {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+/* test  */
+body{
+    background: red;
+}
